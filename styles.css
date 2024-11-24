@@ -1,0 +1,44 @@
+h1 {
+    color: #87CEFA; 
+}
+
+h2 {
+    color: #ff0000; 
+}
+
+body {
+    font-family: "Georgia", serif; 
+    font-size: 18px; 
+    background-color: #2F4F4F; 
+    color: #FFFFFF; 
+}
+
+p {
+    font-family: "Trebuchet MS", sans-serif; 
+    font-size: 16px; 
+    line-height: 1.6; 
+}
+
+ul, ol {
+    margin-left: 20px; /
+}
+
+a {
+    color: #FF4500; 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+img {
+    border-radius: 8px; 
+    margin: 10px; 
+    max-width: 300px; 
+}
+
+h2 {
+    border-bottom: 2px solid #87CEEB; 
+    padding-bottom: 5px;
+}
